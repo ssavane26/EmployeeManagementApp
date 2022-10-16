@@ -11,6 +11,8 @@ SO THAT I can organize and plan my business
 
 ## Description 
 This application will generate a webpage containing a clients team info based on their input via command line!
+
+Sample HTML in the dist folder!!!
 ## Table of Contents
 - [EmployeeManagementApp](#employeemanagementapp)
 - [User Story](#user-story)
@@ -30,7 +32,7 @@ Please run the following command: `npm install`  to install the required depende
 ## Usage 
 Use inquirer from your command line to answer questions about your project. 
 To Run the app use `npm start`
-View walk through video here - <Assets\EmployeeManagementApp.webm> <br>
+View walk through video here - <Assets\EmployeeManagementApp.mp4> <br>
 <img src="Assets\employeemanagementapp.png">
 
 
