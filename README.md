@@ -32,7 +32,7 @@ Please run the following command: `npm install`  to install the required depende
 ## Usage 
 Use inquirer from your command line to answer questions about your project. 
 To Run the app use `npm start`
-View walk through video here - <Assets\EmployeeManagementApp.mp4> <br>
+View walk through video here - <Assets\EmployeeManagementApp.webm> <br>
 <img src="Assets\employeemanagementapp.png">
 
 
