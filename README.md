@@ -35,6 +35,7 @@ To Run the app use `npm start`
 View walk through video here - 
 
 https://user-images.githubusercontent.com/106548100/196018618-596a616c-74f3-45ad-a0e3-87f68957a72f.mp4
+
 <br>
 <img src="Assets\employeemanagementapp.png">
 
