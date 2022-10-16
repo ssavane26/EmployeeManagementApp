@@ -57,7 +57,7 @@ function addEmployee() {
             } else {
                 const htmlPageContent = generateHTML(employees);
                 fs.writeFile('./dist/index.html', htmlPageContent, (err) =>
-                err ? console.log(err) : console.log('Successfully created dist/index.html!')
+                err ? console.log(err) : console.log('Successfully created your teams index.html!', '\n', 'Check Your /dist Folder')
                 );
             };
         });
